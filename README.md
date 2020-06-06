@@ -6,5 +6,5 @@ Beginner Website  using HTML &amp; CSS .
 - Adding FavIcons (https://favicon.io/)
 - Using CDN (https://www.cloudflare.com/learning/cdn/what-is-a-cdn/) 
 
-### Inspiration 
-By Sean Halpin http://seanhalpin.io/
+### Inspiration By
+Sean Halpin http://seanhalpin.io/
