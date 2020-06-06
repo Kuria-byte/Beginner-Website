@@ -2,7 +2,7 @@
 Beginner Website  using HTML &amp; CSS .
 
 ## Github Pages
-Hosted by https://kuria-byte.github.io/Beginner-Website/
+Hosted @ https://kuria-byte.github.io/Beginner-Website/
 
 ## What I learnt 
 - Basic CSS Styling (https://www.w3schools.com/css/default.asp)
