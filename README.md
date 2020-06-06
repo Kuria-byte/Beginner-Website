@@ -1,6 +1,8 @@
 # Beginner-Website
 Beginner Website  using HTML &amp; CSS .
 
+![My site](https://user-images.githubusercontent.com/61579772/83939948-66c12380-a813-11ea-933f-c48966d983c3.jpg)
+
 ## Github Pages
 Hosted @ https://kuria-byte.github.io/Beginner-Website/
 
